@@ -1,4 +1,4 @@
-declare module "currency-codes" {
+declare module "@heathmont/currency-codes" {
   export interface CurrencyCodeRecord {
     code: string;
     number: number;
