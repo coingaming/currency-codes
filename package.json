@@ -1,9 +1,12 @@
 {
-  "name": "currency-codes",
+  "name": "@heathmont/currency-codes",
   "types": "index.d.ts",
   "version": "1.4.1",
   "description": "Lookup currency codes based on ISO 4217",
-  "repository": "git://github.com/coingaming/currency-codes.git",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coingaming/currency-codes.git"
+  },
   "keywords": [
     "iso4217",
     "iso",
@@ -20,5 +23,13 @@
   },
   "scripts": {
     "test": "node test.js"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/coingaming/currency-codes/issues"
+  },
+  "homepage": "https://github.com/coingaming/currency-codes#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "eaguilera",
+  "license": "ISC"
 }
