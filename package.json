@@ -3,7 +3,7 @@
   "types": "index.d.ts",
   "version": "1.4.0",
   "description": "Lookup currency codes based on ISO 4217",
-  "repository": "git://github.com/freeall/currency-codes.git",
+  "repository": "git://github.com/coingaming/currency-codes.git",
   "keywords": [
     "iso4217",
     "iso",
